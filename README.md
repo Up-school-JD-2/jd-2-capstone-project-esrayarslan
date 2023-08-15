@@ -29,13 +29,3 @@ Servislere ait dökümantasyon oluşturulmalı ve servislere ait JSON örnekleri
 Örneğin; "Postman" request'leri olarak iletilebilir.
 Not: Proje isteklerinin karşılanması durumunda ekstra yapılan geliştirmeler artı puan sayılabilir, ancak proje isteklerinin önceliği vardır.
 
-@Nazmiye Kahraman kullanıcısına mesaj gönder
-﻿
-
-
-
-
-Seçmek için 
-
-Nazmiye Kahraman
-Nazmiye Kahraman#1647
